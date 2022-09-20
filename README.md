@@ -10,4 +10,4 @@ Projects from Howard Stahl's CS31 - Introduction to Computer Science I (Winter 2
 *Examination of Error Types
 *Pointers and String Manipulation
 
-Note: Due to the Academic Honesty Policy I signed, I only included the final project in this repository
+Note: Due to the Academic Honesty Policy I signed, I only included the final project in this repository. The rest of the projects are stored in a private repository.
